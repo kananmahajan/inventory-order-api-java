@@ -1,0 +1,7 @@
+target/
+.idea/
+.vscode/
+*.iml
+.env
+
+inventory-order-api-java/
